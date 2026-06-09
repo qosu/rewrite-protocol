@@ -2,6 +2,7 @@
 ## Spacetime as a Self-Correcting Computational Medium
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20602548.svg)](https://doi.org/10.5281/zenodo.20602548)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://python.org)
 
 > *"The universe does not choose measurement outcomes randomly. It selects them to minimize algorithmic complexity across all accessible causal histories — and rewrites the past when consistency demands it."*
